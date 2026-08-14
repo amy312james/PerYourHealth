@@ -19,8 +19,11 @@ PerYourHealth is a healthcare payment management application designed to simplif
 
 ## Author
 **Name:** Amy James 
+
 **Email:** amy312james@outlook.com
+
 **Website:** PerYourHealth  
+
 *Bio:* Experienced developer with mastery in coding, repository structuring, and collaborative problem‑solving. Known for a helping nature and passion for building impactful solutions.
 
 
